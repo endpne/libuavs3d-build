@@ -1,6 +1,6 @@
 # libuavs3d-build
 
-build scripts for [libuavs3d](https://github.com/uavs3/uavs3d)
+build scripts for [uavs3d](https://github.com/uavs3/uavs3d)
 
 ## Installation
 
